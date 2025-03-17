@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/DL_Project/mlruns/0/ef60897bec95429d9ae31f3d7ef6f9af/artifacts
+end_time: 1742207252546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef60897bec95429d9ae31f3d7ef6f9af
+run_name: clean-lynx-584
+run_uuid: ef60897bec95429d9ae31f3d7ef6f9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742207243040
+status: 3
+tags: []
+user_id: Lucifer
